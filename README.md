@@ -1,2 +1,2 @@
-# fragstats-landscape-metrics
-# vancouver
+# fragstats-python-landscape-metrics
+# vancouver+ burnaby+ newWestminister
